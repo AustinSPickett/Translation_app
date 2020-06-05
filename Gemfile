@@ -13,7 +13,7 @@ gem  'bootstrap-sass', '3.3.6'
 gem 'rails-controller-testing'
 
 # Use Puma as the app server
-gem 'puma', '3.12.1'
+gem 'puma', '3.12.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.1.0'
 # Transpile app-like avaScript. Read more: https://github.com/rails/webpacker
