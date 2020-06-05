@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   name: MyString
+#   email: MyString
+
+# two:
+#   name: MyString
+#   email: MyString
+
+#MUST USE SPACES NOT TABS
+austin:
+ name: Austin Pickett
+ email: austinpickett@test.com
+ password_digest: <%= User.digest('password') %>
